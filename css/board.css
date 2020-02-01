@@ -67,8 +67,9 @@ width:100%;
 }
 
 .gnb{
-    display: none;
+display:none;
 }
+
 .gnb li{
 display:flex;
 background:#2c3e50;
